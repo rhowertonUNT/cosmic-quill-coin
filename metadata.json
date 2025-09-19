@@ -1,0 +1,14 @@
+{
+  "name": "Cosmic Quill Coin",
+  "symbol": "CQL",
+  "description": "Meme/community-driven token on Solana.",
+  "decimals": 9,
+  "supply": "1000000000",
+  "contract": "6QKLHkxJ2X2VKmcGrviCJmTNBVqVWTTZU6EhfUtmoon",
+  "explorer": "https://solscan.io/token/6QKLHkxJ2X2VKmcGrviCJmTNBVqVWTTZU6EhfUtmoon",
+  "links": {
+    "twitter": "https://x.com/cosmicquillcoin",
+    "raydium": "https://raydium.io/swap/?inputMint=So11111111111111111111111111111111111111112&outputMint=6QKLHkxJ2X2VKmcGrviCJmTNBVqVWTTZU6EhfUtmoon",
+    "github": "https://github.com/rhowertonUNT/cosmic-quill-coin"
+  }
+}
